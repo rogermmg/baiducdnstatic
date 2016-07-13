@@ -1,0 +1,25 @@
+{
+    "name": "AmazeUI",
+    "filename": "amazeui.min.js",
+    "version": "2.7.1",
+    "description": "相比国外框架，Amaze UI 关注中文排版，根据用户代理调整字体，实现更好的中文排版效果；兼顾国内主流浏览器及 App 内置浏览器兼容支持。Amaze UI 面向 HTML5 开发，使用 CSS3 来做动画交互，平滑、高效，更适合移动设备，让 Web 应用更快速载入。",
+    "homepage": "http://amazeui.org/",
+    "keywords": [
+        "Amaze",
+        "妹子UI",
+        "AmazeUI"
+    ],
+    "maintainers": [
+        {
+            "name": "idcim",
+            "web":"http://www.h6.design/",
+            "mail":"idcim@qq.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:amazeui/amazeui.git"
+        }
+    ]
+}
